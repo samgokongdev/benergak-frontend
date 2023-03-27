@@ -1,6 +1,6 @@
 <template>
   <div
-    class="py-11 lg:px-[200px] xl:px-[300px] 2xl:px-[600px] px-8 font-mono text-primary min-h-screen"
+    class="pt-11 sm:px-[150px] md:px-[200px] lg:px-[300px] xl:px-[400px] 2xl:px-[700px] px-8 font-mono bg-slate-400/10 text-primary min-h-screen"
   >
     <!-- HEADER -->
     <div>
@@ -41,7 +41,7 @@
     <!-- NAVBAR -->
   </div>
   <div
-    class="w-full h-20 lg:px-[200px] xl:px-[300px] 2xl:px-[600px] bg-white px-16 py-4 flex justify-between text-gray-font fixed bottom-0 shadow-lg z-40"
+    class="w-full h-20 sm:px-[150px] md:px-[200px] lg:px-[300px] xl:px-[400px] 2xl:px-[700px] bg-white px-16 flex justify-between items-center text-gray-font fixed bottom-0 shadow-lg z-40"
   >
     <div>
       <img src="~/assets/images/svg/list.svg" />
